@@ -1,6 +1,8 @@
 # Capslock
 
-*Make CapsLock Great Again!*  
+ > *This fork allows for normal use of alt/command with navigation on Mac (navigate by word/line)*
+
+*Make CapsLock Great Again!*
 
 ![](images/trump.jpg)
 
@@ -36,11 +38,7 @@
 2. Copy URL to your browser to import configuration script.
 
 ```bash
-# This Repo
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/caps_lock.json
-
-# Karabiner-Elements Offical Script Gallery
-karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fcaps_lock_enhancement.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stephentuso/Capslock/master/mac/caps_lock.json
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
@@ -65,7 +63,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Navigation
 
 - Hold  `✱` Hyper to enable navigators
-- Hold additional `⌘` Command for **selection** . (just like holding ⇧shift in normal)
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
