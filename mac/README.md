@@ -22,7 +22,7 @@
 2. Copy URL to your browser to import configuration script.
 
 ```bash
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/caps_lock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stephentuso/Capslock/master/mac/caps_lock.json
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
